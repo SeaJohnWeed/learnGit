@@ -1,3 +1,3 @@
-public static void asd{
-    
-}
+This is a text file to test. 
+看看中文现实如何
+看起来还不错
