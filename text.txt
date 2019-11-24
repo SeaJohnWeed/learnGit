@@ -1,3 +1,6 @@
 This is a text file to test. 
 看看中文现实如何
 看起来还不错
+
+
+远程仓库同步到本地 测试
